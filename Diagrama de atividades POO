@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-12T15:02:44.346Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="4wifcDBzijsm0nJexR3f" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-12T15:03:50.984Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="MC3W_uwIccI3YuPo02bV" version="21.7.4" type="github">
   <diagram name="Página-1" id="1Mxtyqk-ar3rNEmgwFGz">
-    <mxGraphModel dx="989" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,7 +49,7 @@
         <mxCell id="BG5ZACYSbL07GNEzm-cR-37" value="[não tem na palavra]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="BG5ZACYSbL07GNEzm-cR-12">
           <mxGeometry x="10" y="320" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BG5ZACYSbL07GNEzm-cR-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="BG5ZACYSbL07GNEzm-cR-12" source="BG5ZACYSbL07GNEzm-cR-40" target="BG5ZACYSbL07GNEzm-cR-43">
+        <mxCell id="BG5ZACYSbL07GNEzm-cR-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="BG5ZACYSbL07GNEzm-cR-12" source="BG5ZACYSbL07GNEzm-cR-40" target="BG5ZACYSbL07GNEzm-cR-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BG5ZACYSbL07GNEzm-cR-40" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="BG5ZACYSbL07GNEzm-cR-12">
@@ -62,10 +62,20 @@
           <mxGeometry x="270" y="423" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BG5ZACYSbL07GNEzm-cR-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="BG5ZACYSbL07GNEzm-cR-23" target="BG5ZACYSbL07GNEzm-cR-24">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="370" />
+              <mxPoint x="620" y="310" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="BG5ZACYSbL07GNEzm-cR-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BG5ZACYSbL07GNEzm-cR-23" target="BG5ZACYSbL07GNEzm-cR-26">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="BG5ZACYSbL07GNEzm-cR-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="BG5ZACYSbL07GNEzm-cR-23" target="BG5ZACYSbL07GNEzm-cR-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="370" />
+              <mxPoint x="620" y="420" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="BG5ZACYSbL07GNEzm-cR-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="BG5ZACYSbL07GNEzm-cR-23" target="BG5ZACYSbL07GNEzm-cR-36">
           <mxGeometry relative="1" as="geometry">
