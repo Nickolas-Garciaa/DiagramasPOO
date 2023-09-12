@@ -11,3 +11,8 @@ Diagramas de POO: Casos de Uso, Classe e Atividade <br>
 
 
 ![Diagrama de classe POO](https://github.com/Nickolas-Garciaa/DiagramasPOO/assets/128262640/1d58d1f1-f949-4fc5-b460-6c5f886ac7df)
+<br>
+
+<h1>Diagrama de atividades</h1>
+
+![Diagrama de atividades POO](https://github.com/Nickolas-Garciaa/DiagramasPOO/assets/128262640/fa23051c-d7ee-433a-a5a2-a1de35a04c63)
